@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @Snmjc17
-- 👀 I’m interested in Online Games ...
-- 🌱 I’m currently learning Codes ...
+# 👋 Hi, I’m Sean
 
-<!---
-Snmjc17/Snmjc17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a college student passionate about learning software development and building practical projects using modern web technologies. I enjoy turning ideas into working applications and continuously improving my skills through hands-on coding.
+
+---
+
+## 🎯 About Me
+
+* 🎓 Currently studying Information Technology specialized in Business Analytics
+* 💻 Interested in Networking
+* 📚 Always learning new technologies and best practices
+* 🤝 Open to collaboration on student and beginner-friendly projects
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages**
+
+* PHP
+* JavaScript
+* HTML5 / CSS3
+* SQL
+
+**Frameworks & Tools**
+
+* CodeIgniter 5
+* Tailwind CSS
+* Bootstrap
+* Git & GitHub
+* MySQL
+
+**Other**
+
+* Responsive Web Design
+* Basic
